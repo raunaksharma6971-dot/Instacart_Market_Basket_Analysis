@@ -10,6 +10,13 @@ The analysis focuses on understanding *what products customers buy together* and
 
 ---
 
+## Instacart Dashboard
+
+🔗 Live dashboard: https://lookerstudio.google.com/reporting/71e8535e-f2af-408a-84d9-a40ef38c1016
+
+![Instacart Dashboard Preview](dashboards/instacart/instacart_dashboard.png)
+
+
 ## Objectives
 - Explore large-scale transactional retail data
 - Identify frequently purchased items and item combinations
