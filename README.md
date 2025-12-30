@@ -87,12 +87,4 @@ The analysis focuses on understanding *what products customers buy together* and
 
 ---
 
-## Future Enhancements
-- Apply FP-Growth for performance optimization
-- Segment analysis by user behavior or order frequency
-- Integrate time-based purchasing patterns
-- Extend analysis to personalized recommendation modeling
-
----
-
  
