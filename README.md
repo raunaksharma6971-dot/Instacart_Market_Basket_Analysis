@@ -14,6 +14,8 @@ The analysis focuses on understanding *what products customers buy together* and
 
 🔗 Live dashboard: https://lookerstudio.google.com/reporting/71e8535e-f2af-408a-84d9-a40ef38c1016
 
+![Dashboard Overview](Instacart_market_basket_analysis.png)
+
 
 
 ## Objectives
